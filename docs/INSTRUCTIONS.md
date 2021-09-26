@@ -1,6 +1,6 @@
 # Landingspagina Activiteiten Hub
 
-Herontwerp en ontwikkel een mockup voor de contactpagina van de Activiteiten Hub van de OBA
+Herontwerp en ontwikkel de landingspagina van de Activiteiten Hub van de OBA
 
 ## Context
 
