@@ -12,7 +12,7 @@ De OBA organiseert diverse activiteiten rondom kennis, cultuur en informatie. Vi
 
 De landingspagina van de activiteiten-agenda verdient een redesign. Met name oudere bezoekers vinden het lastig om passende activiteiten te vinden. 
 
-Ontwerp en bouw voor deze doelgroep een mock-up van de vernieuwde landingspage.
+Ontwerp en bouw voor deze doelgroep een nieuwe landingspage.
 
 ## Doel van deze opdracht
 
