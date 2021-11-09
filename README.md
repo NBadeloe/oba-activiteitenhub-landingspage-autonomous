@@ -5,7 +5,7 @@ This is the oba activity page redesign
 
 ## Inhoudsopgave
 
-- [Title](# OBA activity redesign)
+-  OBA activity redesign
   * [description](#description)
   * [characteristics](#characteristics)
   * [Installation](#installation)
