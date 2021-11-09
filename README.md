@@ -1,29 +1,32 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# OBA activity redesign
 
-# Titel
-
-## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+## description
+This is the oba activity page redesign
 
 ## Inhoudsopgave
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+- [Title](# OBA activity redesign)
+  * [description](#description)
+  * [characteristics](#characteristics)
+  * [Installation](#installation)
+  * [use](#use)
+  * [sources](#sources)
+  * [lincenses](#licences)
 
-## Kenmerken
+## characteristics
 
-## Installatie
+## installation
+install with HTTPS
+```
+git clone https://github.com/NBadeloe/oba-activiteitenhub-landingspage-autonomous.git
+```
+open with live server.
 
-## Gebruik
 
-## Bronnen
+## use
 
+## sources
+[oba website](https://www.oba.nl/)
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
